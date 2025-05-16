@@ -1,0 +1,15 @@
+2025-05-01|Food|120.50|Lunch at cafe
+2025-05-02|Transport|350.00|Taxi to meeting
+2025-05-03|Utilities|560.00|Electricity bill
+2025-05-04|Food|45.00|Snacks
+2025-05-05|Transport|200.00|Bus pass
+2025-05-06|Entertainment|150.00|Movie tickets
+2025-05-07|Bills|400.00|Water bill
+2025-05-08|Food|300.00|Dinner out
+2025-05-09|Shopping|500.00|Clothes
+2025-05-10|Health|250.00|Doctor visit
+2025-05-11|Transport|100.00|Gas
+2025-05-01|Food|1000.00|cake
+2024-12-13|food|1000.0|cake
+2025-04-15|Transport|1000.0|trip
+2025-04-25|Transport|530.0|bus
